@@ -15,3 +15,6 @@ https://portal.vision.cognitive.azure.com/gallery/featured
 Azure Content Safety Studio
 https://contentsafety.cognitive.azure.com/
 
+Azure Machine Learning Studio
+https://ml.azure.com/
+
